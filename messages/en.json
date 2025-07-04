@@ -1,0 +1,19 @@
+{
+  "Chat": {
+    "greetings": "Hallo, I'm your favorite AI Assistant!",
+    "ask-away": "What’s your question?",
+    "input-placeholder": "Type your question here…",
+    "disclaimer": "AI may make mistakes",
+    "copyrights": "© Mirco Poretti – Helping you following the standards",
+    "generic-error": "AI Assistant responded with an error! Please try again.",
+    "too-many-requests-error": "I received too many requests today. Time to rest! Please try again tomorrow.",
+    "ai": "AI",
+    "you": "You"
+  },
+  "Consent": {
+    "title": "AI helps, but you should always verify!",
+    "content1": "Chatbot uses AI to generate responses based on official sources but they may not always be accurate.",
+    "content2": "We recommend verifying information from official sources.",
+    "Continue": "I acknowledge that. Let me try!"
+  }
+}

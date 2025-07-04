@@ -1,0 +1,19 @@
+{
+  "Chat": {
+    "greetings": "Ciao, sono il tuo assistente AI preferito!",
+    "ask-away": "Qual è la tua domanda?",
+    "input-placeholder": "Scrivi qui la tua domanda…",
+    "disclaimer": "L'AI può commettere errori",
+    "copyrights": "© Mirco Poretti – Ti aiuto a seguire gli standard",
+    "generic-error": "L'assistente AI ha risposto con un errore! Riprova.",
+    "too-many-requests-error": "Ho ricevuto troppe richieste oggi. È ora di riposare! Riprova domani.",
+    "ai": "AI",
+    "you": "Tu"
+  },
+  "Consent": {
+    "title": "L'AI aiuta, ma dovresti sempre verificare!",
+    "content1": "Il chatbot utilizza l'intelligenza artificiale per generare risposte basate su fonti ufficiali, ma potrebbero non essere sempre accurate.",
+    "content2": "Ti consigliamo di verificare le informazioni dalle fonti ufficiali.",
+    "Continue": "Ne prendo atto. Fammi provare!"
+  }
+}
