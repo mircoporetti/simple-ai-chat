@@ -14,6 +14,12 @@ Requirements:
    
 2. Run the app
 
-    ```bash
+   ```bash
     npm run dev
-    ```
+   ```
+   
+To run the linter
+
+   ```bash
+      npm run lint
+   ```
