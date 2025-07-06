@@ -1,10 +1,13 @@
 ## Elections AI Chat
 
+This is a minimal chatbot UI which can be connected to a backend to receive a streamed answer to a question.
+
+
 ### Run the app locally
 
 Requirements:
 
-- Node ˆ20
+- Node ˆ22
 
 1. Install
 
